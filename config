@@ -1,0 +1,6 @@
+token = YOUR_BOT_TOKEN
+prefix = !
+lavalink.server = your-project.up.railway.app
+lavalink.port = 443
+lavalink.password = youshallnotpass
+lavalink.secure = true
